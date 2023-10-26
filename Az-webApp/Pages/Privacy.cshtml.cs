@@ -14,7 +14,7 @@ namespace Az_webApp.Pages
 
         public void OnGet()
         {
-            throw new Exception("Test Exception");    
+              
         }
     }
 }
